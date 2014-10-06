@@ -1,0 +1,20 @@
+[
+{
+  "modid": "JAWA",
+  "name": "Just Another Weapon Addition",
+  "description": "A mod which adds items that improve your weapons!",
+  "version": "1.0",
+  "credits": "Created by Fail_or_Fail",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Fail_or_Fail"
+  ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+  ]
+}
+]

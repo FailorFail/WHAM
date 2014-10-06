@@ -1,0 +1,34 @@
+[19:39:31] [main/INFO]: Logging in with username & password
+[19:39:36] [main/INFO]: Setting user: Fail_or_Fail
+[19:39:38] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:39:39] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[19:39:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Just Another Weapon Addition
+[19:39:48] [Sound Library Loader/INFO]: Sound engine started
+[19:39:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:39:50] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:39:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Just Another Weapon Addition
+[19:39:51] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:39:51] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:39:52] [Sound Library Loader/INFO]: Sound engine started
+[19:39:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[19:39:52] [Client thread/ERROR]: @ Post startup
+[19:39:52] [Client thread/ERROR]: 1281: Invalid value
+[19:39:56] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:39:56] [Server thread/INFO]: Generating keypair
+[19:39:57] [Server thread/INFO]: Preparing start region for level 0
+[19:39:58] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:39:58] [Server thread/INFO]: Fail_or_Fail[local:E:448a986d] logged in with entity id 158 at (506.6647095073644, 4.0, -608.9389375139489)
+[19:39:58] [Server thread/INFO]: Fail_or_Fail joined the game
+[19:40:04] [Server thread/INFO]: Fail_or_Fail has just earned the achievement [Taking Inventory]
+[19:40:04] [Client thread/INFO]: [CHAT] Fail_or_Fail has just earned the achievement [Taking Inventory]
+[19:40:12] [Server thread/INFO]: Saving and pausing game...
+[19:40:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:40:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:40:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:40:13] [Server thread/INFO]: Stopping server
+[19:40:13] [Server thread/INFO]: Saving players
+[19:40:13] [Server thread/INFO]: Saving worlds
+[19:40:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:40:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:40:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:40:14] [Client thread/INFO]: Stopping!
